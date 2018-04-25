@@ -4282,8 +4282,9 @@ nav.nav-extended {
 }
 
 nav.nav-extended .nav-wrapper {
-  min-height: 56px;
+  min-height: 100px;
   height: auto;
+  border-bottom: 20px;
 }
 
 nav.nav-extended .nav-content {
